@@ -156,12 +156,12 @@ This is my study plan for becoming a software engineer.
 
 - ### Binary search
 
-  - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
-  - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-  - [ ] [detail](https://www.topcoder.com/thrive/articles/Binary%20Search)
-  - [ ] [blueprint](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
-  - [ ] [[Review] Binary search in 4 minutes (video)](https://youtu.be/fDKIpRe8GW4)
-  - [ ] Implement:
+  - [x] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+  - [x] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+  - [x] [detail](https://www.topcoder.com/thrive/articles/Binary%20Search)
+  - [x] [blueprint](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+  - [x] [[Review] Binary search in 4 minutes (video)](https://youtu.be/fDKIpRe8GW4)
+  - [x] Implement:
     - binary search (on a sorted array of integers)
     - binary search using recursion
 
@@ -199,9 +199,9 @@ This is my study plan for becoming a software engineer.
 
 - ### Trees - Intro
 
-  - [ ] [Intro to Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
-  - [ ] [Tree Traversal (video)](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
-  - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+  - [x] [Intro to Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
+  - [x] [Tree Traversal (video)](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
+  - [x] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
     - BFS notes:
       - level order (BFS, using queue)
       - time complexity: O(n)
@@ -214,9 +214,9 @@ This is my study plan for becoming a software engineer.
       - inorder (DFS: left, self, right)
       - postorder (DFS: left, right, self)
       - preorder (DFS: self, left, right)
-  - [ ] [[Review] Breadth-first search in 4 minutes (video)](https://youtu.be/HZ5YTanv5QE)
-  - [ ] [[Review] Depth-first search in 4 minutes (video)](https://youtu.be/Urx87-NMm6c)
-  - [ ] [[Review] Tree Traversal (playlist) in 11 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO1JC2RgEi04nLy6D-rKk6b)
+  - [x] [[Review] Breadth-first search in 4 minutes (video)](https://youtu.be/HZ5YTanv5QE)
+  - [x] [[Review] Depth-first search in 4 minutes (video)](https://youtu.be/Urx87-NMm6c)
+  - [x] [[Review] Tree Traversal (playlist) in 11 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO1JC2RgEi04nLy6D-rKk6b)
 
 - ### Binary search trees: BSTs
 
